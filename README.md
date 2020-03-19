@@ -74,4 +74,4 @@ chmod 777 ScorpFish.sh
 **+ Enviar correos desde el script enlaces incluidos**
 
 
-**Hecho por Javic Error404**
+**Hecho por Javic Error404***
